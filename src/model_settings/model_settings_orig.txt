@@ -1,0 +1,11 @@
+training_days: 3
+testing_days: 1
+num_agents: 50
+value_num: 1
+write_file: True
+print_verbose: False
+lambda: 1.25
+pickup_delay: 600
+fairness_obj: "income"
+delta: 5
+calculate_shapley: False

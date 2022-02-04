@@ -1,0 +1,96 @@
+Mean: 1220.0653188929073, Max: 2990.0
+Epoch 0001/1000 Train: 0.01226  Val: 0.000947   46.5    *
+Epoch 0002/1000 Train: 0.000406 Val: 0.000265   42.1    *
+Epoch 0003/1000 Train: 0.000204 Val: 0.00017    49.1    *
+Epoch 0004/1000 Train: 0.000153 Val: 0.00015    46.3    *
+Epoch 0005/1000 Train: 0.000129 Val: 0.000143   52.8    *
+Epoch 0006/1000 Train: 0.000114 Val: 0.000121   44.6    *
+Epoch 0007/1000 Train: 0.000103 Val: 0.000112   44.1    *
+Epoch 0008/1000 Train: 9.5e-05  Val: 0.000104   41.2    *
+Epoch 0009/1000 Train: 8.9e-05  Val: 9.6e-05    40.4    *
+Epoch 0010/1000 Train: 8.3e-05  Val: 8.6e-05    39.9    *
+Epoch 0011/1000 Train: 7.9e-05  Val: 8.2e-05    39.7    *
+Epoch 0012/1000 Train: 7.5e-05  Val: 7.9e-05    40.1    *
+Epoch 0013/1000 Train: 7.2e-05  Val: 7.6e-05    39.7    *
+Epoch 0014/1000 Train: 6.9e-05  Val: 7.3e-05    40.0    *
+Epoch 0015/1000 Train: 6.7e-05  Val: 6.7e-05    40.3    *
+Epoch 0016/1000 Train: 6.5e-05  Val: 6.5e-05    39.8    *
+Epoch 0017/1000 Train: 6.3e-05  Val: 6.3e-05    39.7    *
+Epoch 0018/1000 Train: 6.1e-05  Val: 6.2e-05    39.8    *
+Epoch 0019/1000 Train: 5.9e-05  Val: 5.9e-05    39.7    *
+Epoch 0020/1000 Train: 5.8e-05  Val: 5.7e-05    40.1    *
+Epoch 0021/1000 Train: 5.6e-05  Val: 5.7e-05    40.1    *
+Epoch 0022/1000 Train: 5.5e-05  Val: 6e-05      39.4
+Epoch 0023/1000 Train: 5.4e-05  Val: 6.3e-05    39.9
+Epoch 0024/1000 Train: 5.3e-05  Val: 6.5e-05    42.7
+Epoch 0025/1000 Train: 5.2e-05  Val: 6.3e-05    40.1
+Epoch 0026/1000 Train: 5.1e-05  Val: 6.4e-05    39.8
+Epoch 0027/1000 Train: 5e-05    Val: 6.2e-05    40.3
+Epoch 0028/1000 Train: 4.9e-05  Val: 5.9e-05    39.5
+Epoch 0029/1000 Train: 4.8e-05  Val: 6e-05      39.6
+Epoch 0030/1000 Train: 4.7e-05  Val: 5.7e-05    39.9    *
+Epoch 0031/1000 Train: 4.7e-05  Val: 5.4e-05    40.0    *
+Epoch 0032/1000 Train: 4.6e-05  Val: 4.9e-05    39.9    *
+Epoch 0033/1000 Train: 4.5e-05  Val: 5.2e-05    40.0
+Epoch 0034/1000 Train: 4.5e-05  Val: 5.4e-05    39.6
+Epoch 0035/1000 Train: 4.4e-05  Val: 4.9e-05    39.8    *
+Epoch 0036/1000 Train: 4.4e-05  Val: 4.8e-05    40.0    *
+Epoch 0037/1000 Train: 4.3e-05  Val: 4.8e-05    39.9    *
+Epoch 0038/1000 Train: 4.3e-05  Val: 4.9e-05    39.5
+Epoch 0039/1000 Train: 4.2e-05  Val: 5e-05      40.1
+Epoch 0040/1000 Train: 4.2e-05  Val: 4.3e-05    39.8    *
+Epoch 0041/1000 Train: 4.1e-05  Val: 4.5e-05    39.5
+Epoch 0042/1000 Train: 4.1e-05  Val: 4.4e-05    40.7
+Epoch 0043/1000 Train: 4e-05    Val: 4.2e-05    40.3    *
+Epoch 0044/1000 Train: 4e-05    Val: 4.1e-05    39.8    *
+Epoch 0045/1000 Train: 4e-05    Val: 4.2e-05    39.9
+Epoch 0046/1000 Train: 3.9e-05  Val: 4.1e-05    39.8
+Epoch 0047/1000 Train: 3.9e-05  Val: 4e-05      41.9    *
+Epoch 0048/1000 Train: 3.8e-05  Val: 3.9e-05    41.8    *
+Epoch 0049/1000 Train: 3.8e-05  Val: 4.1e-05    40.9
+Epoch 0050/1000 Train: 3.8e-05  Val: 3.7e-05    40.5    *
+Epoch 0051/1000 Train: 3.7e-05  Val: 3.6e-05    40.7    *
+Epoch 0052/1000 Train: 3.7e-05  Val: 3.7e-05    39.7
+Epoch 0053/1000 Train: 3.7e-05  Val: 3.9e-05    39.7
+Epoch 0054/1000 Train: 3.6e-05  Val: 3.8e-05    40.1
+Epoch 0055/1000 Train: 3.6e-05  Val: 3.5e-05    40.0    *
+Epoch 0056/1000 Train: 3.6e-05  Val: 3.5e-05    39.7
+Epoch 0057/1000 Train: 3.5e-05  Val: 3.3e-05    39.7    *
+Epoch 0058/1000 Train: 3.5e-05  Val: 3.3e-05    40.0    *
+Epoch 0059/1000 Train: 3.5e-05  Val: 3.3e-05    40.3    *
+Epoch 0060/1000 Train: 3.5e-05  Val: 3.1e-05    41.2    *
+Epoch 0061/1000 Train: 3.4e-05  Val: 3.2e-05    40.0
+Epoch 0062/1000 Train: 3.4e-05  Val: 3.5e-05    40.3
+Epoch 0063/1000 Train: 3.4e-05  Val: 3.2e-05    39.6
+Epoch 0064/1000 Train: 3.4e-05  Val: 3.2e-05    39.8
+Epoch 0065/1000 Train: 3.3e-05  Val: 3e-05      39.7    *
+Epoch 0066/1000 Train: 3.3e-05  Val: 3e-05      39.4    *
+Epoch 0067/1000 Train: 3.3e-05  Val: 2.9e-05    39.7    *
+Epoch 0068/1000 Train: 3.3e-05  Val: 2.8e-05    39.7    *
+Epoch 0069/1000 Train: 3.3e-05  Val: 3e-05      39.7
+Epoch 0070/1000 Train: 3.2e-05  Val: 2.8e-05    39.7    *
+Epoch 0071/1000 Train: 3.2e-05  Val: 2.8e-05    39.7    *
+Epoch 0072/1000 Train: 3.2e-05  Val: 2.8e-05    39.9    *
+Epoch 0073/1000 Train: 3.2e-05  Val: 2.7e-05    40.0    *
+Epoch 0074/1000 Train: 3.2e-05  Val: 2.8e-05    39.9
+Epoch 0075/1000 Train: 3.1e-05  Val: 2.7e-05    39.8    *
+Epoch 0076/1000 Train: 3.1e-05  Val: 3.1e-05    39.7
+Epoch 0077/1000 Train: 3.1e-05  Val: 2.7e-05    39.5    *
+Epoch 0078/1000 Train: 3.1e-05  Val: 3.1e-05    39.8
+Epoch 0079/1000 Train: 3.1e-05  Val: 2.7e-05    39.8
+Epoch 0080/1000 Train: 3.1e-05  Val: 2.7e-05    39.7
+Epoch 0081/1000 Train: 3e-05    Val: 2.9e-05    39.8
+Epoch 0082/1000 Train: 3e-05    Val: 3e-05      39.9
+Epoch 0083/1000 Train: 3e-05    Val: 3e-05      39.5
+Epoch 0084/1000 Train: 3e-05    Val: 3.1e-05    39.7
+Epoch 0085/1000 Train: 3e-05    Val: 3.5e-05    41.4
+Epoch 0086/1000 Train: 3e-05    Val: 3.7e-05    39.7
+Epoch 0087/1000 Train: 3e-05    Val: 3.1e-05    39.7
+Epoch 0088/1000 Train: 2.9e-05  Val: 2.9e-05    40.0
+Epoch 0089/1000 Train: 2.9e-05  Val: 3.2e-05    39.7
+Epoch 0090/1000 Train: 2.9e-05  Val: 3.1e-05    39.7
+Epoch 0091/1000 Train: 2.9e-05  Val: 3.1e-05    39.6
+Epoch 0092/1000 Train: 2.9e-05  Val: 3.5e-05    39.9
+Early stopping
+Loss on test set: 2.7159414457855746e-05
+whole training took 3739.9306602478027s
